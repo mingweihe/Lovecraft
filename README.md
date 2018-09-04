@@ -1,1 +1,1 @@
-# Lovecraft
+# Natural Language Processing on one of Lovecraft’s essay by training Recurrent Neural Network.
